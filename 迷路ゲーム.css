@@ -1,0 +1,17 @@
+.title{
+  font-size:25px;
+}
+
+.button-style {
+  width: 200px;
+  font-size: 20px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #008DDD;
+  border-radius: 5px;
+}
+
+.up-background{
+  background:#EEEEEE;
+  text-align:center;
+}
